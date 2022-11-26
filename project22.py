@@ -69,7 +69,3 @@ nameRank(name_list, marks_list, update_list, n)
 
 
 
-
-n = len(marks_list)
- 
-nameRank(name_list, marks_list, update_list, n)
